@@ -1,4 +1,4 @@
-// Copyright 2019 Layer5.io
+// Copyright Meshery Authors
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -26,7 +26,6 @@ import (
 	"github.com/sirupsen/logrus"
 
 	mesh "github.com/layer5io/meshery-nsx-sm/meshes"
-	"github.com/layer5io/meshery-nsx-sm/nsx-sm"
 )
 
 var (
